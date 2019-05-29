@@ -8,8 +8,8 @@
 
 namespace BinaryData
 {
-    extern const char*   ayaya7_jpg;
-    const int            ayaya7_jpgSize = 262340;
+    extern const char*   ayaya7_png;
+    const int            ayaya7_pngSize = 377773;
 
     // Number of elements in the namedResourceList and originalFileNames arrays.
     const int namedResourceListSize = 1;

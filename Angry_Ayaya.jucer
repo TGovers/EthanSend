@@ -4,7 +4,7 @@
               companyName="TeamAA">
   <MAINGROUP id="SqzNyQ" name="Angry_Ayaya">
     <GROUP id="{CED39D61-E5FE-3C20-6021-80F3903CC023}" name="Resources">
-      <FILE id="yZo396" name="ayaya7.jpg" compile="0" resource="1" file="ayaya7.jpg"/>
+      <FILE id="sfU6kC" name="ayaya7.png" compile="0" resource="1" file="ayaya7.png"/>
     </GROUP>
     <GROUP id="{44B6C2D1-CCC3-F798-8505-EA34F4E8B47D}" name="Source">
       <FILE id="ffXGkZ" name="PluginProcessor.cpp" compile="1" resource="0"
@@ -84,6 +84,7 @@
   </MODULES>
   <LIVE_SETTINGS>
     <OSX/>
+    <WINDOWS/>
   </LIVE_SETTINGS>
   <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
 </JUCERPROJECT>

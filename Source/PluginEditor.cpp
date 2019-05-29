@@ -172,7 +172,7 @@ void Angry_ayayaAudioProcessorEditor::paint (Graphics& g)
 {
     // (Our component is opaque, so we must completely fill the background with a solid colour)
     
-    Image background = ImageCache::getFromMemory(BinaryData::ayaya7_jpg, BinaryData::ayaya7_jpgSize);
+    Image background = ImageCache::getFromMemory(BinaryData::ayaya7_png, BinaryData::ayaya7_pngSize);
     g.drawImageAt(background, 0, 0);
     //g.fillAll (Colours::darkorchid);
     
